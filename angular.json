@@ -227,8 +227,10 @@
       }
     }
   },
-  "defaultProject": "docspa",
   "cli": {
-    "defaultCollection": "@angular-eslint/schematics"
+    "schematicCollections": [
+      "@angular-eslint/schematics"
+    ],
+    "analytics": "7d60bd07-3f2b-4464-a8dc-14260f322df3"
   }
 }
